@@ -9,7 +9,10 @@ import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 import static com.codeborne.selenide.WebDriverRunner.getWebDriver;
 
-
+/**
+ *
+ * @author Artiom
+ */
 public class BMICalculator {
 
     @Test
